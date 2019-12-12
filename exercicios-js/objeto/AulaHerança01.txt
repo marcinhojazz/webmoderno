@@ -1,0 +1,13 @@
+Ferrari
+  modelo: F40
+  velMax: 324
+  [[Prototype]]
+
+Volvo
+  modelo: V40
+  velMax: 200
+  [[Prototype]]
+
+Object.ptototype
+  [[Prototype]]: null
+> [[Prototype]] != prototype
